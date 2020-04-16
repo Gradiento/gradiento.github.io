@@ -1,0 +1,29 @@
+/*
+Gradiento v1.0.1 [Released: April 2020] (https://gradiento.github.io)
+Created by Pratik Nilange. Copyright 2020 Pratik Nilange, One Small Project
+Licensed under MIT (https://github.com/Gradiento/gradiento.github.io/blob/master/LICENSE)
+*/
+.goalkeeper_lip{
+	background: linear-gradient(143deg, rgba(255,239,145,1) 0%, rgba(181,255,143,1) 100%);
+}
+.pasture_stake{
+	background: linear-gradient(143deg, rgba(255,145,145,1) 0%, rgba(143,237,255,1) 100%);
+}
+.pioneer_throat{
+	background: linear-gradient(122deg, rgba(255,145,145,1) 0%, rgba(145,255,143,1) 100%);
+}
+.undertake{
+	background: linear-gradient(45deg, rgba(145,173,255,1) 0%, rgba(145,255,143,1) 100%);
+}
+.flood{
+	background: linear-gradient(45deg, rgba(255,191,217,1) 0%, rgba(194,255,193,1) 100%);
+}
+.instal{
+	background: linear-gradient(121deg, rgba(255,232,241,1) 0%, rgba(226,255,253,1) 100%);
+}
+.freighter{
+	background: linear-gradient(243deg, rgba(255,193,193,1) 0%, rgba(255,255,166,1) 100%);
+}
+.palace{
+	background: linear-gradient(135deg, rgba(255,217,160,1) 0%, rgba(166,255,227,1) 100%);
+}
