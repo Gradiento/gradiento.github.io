@@ -3,6 +3,7 @@ Gradiento v1.0.1 [Released: April 2020] (https://gradiento.github.io)
 Created by Pratik Nilange. Copyright 2020 Pratik Nilange, One Small Project
 Licensed under MIT (https://github.com/Gradiento/gradiento.github.io/blob/master/LICENSE)
 */
+
 .goalkeeper_lip{
 	background: linear-gradient(143deg, rgba(255,239,145,1) 0%, rgba(181,255,143,1) 100%);
 }
@@ -10,7 +11,7 @@ Licensed under MIT (https://github.com/Gradiento/gradiento.github.io/blob/master
 	background: linear-gradient(143deg, rgba(255,145,145,1) 0%, rgba(143,237,255,1) 100%);
 }
 .pioneer_throat{
-	background: linear-gradient(122deg, rgba(255,145,145,1) 0%, rgba(145,255,143,1) 100%);
+	background: linear-gradient(122deg, rgba(145,255,143,1) 0%, rgba(255,145,145,1) 100%);
 }
 .undertake{
 	background: linear-gradient(45deg, rgba(145,173,255,1) 0%, rgba(145,255,143,1) 100%);
@@ -26,4 +27,34 @@ Licensed under MIT (https://github.com/Gradiento/gradiento.github.io/blob/master
 }
 .palace{
 	background: linear-gradient(135deg, rgba(255,217,160,1) 0%, rgba(166,255,227,1) 100%);
+}
+.audience{
+	background: linear-gradient(77deg, rgba(0,186,187,1) 0%, rgba(91,208,0,1) 100%);
+}
+.asset{
+	background: linear-gradient(77deg, rgba(247,217,171,1) 0%, rgba(221,111,128,1) 100%);
+}
+.necklace{
+	background: linear-gradient(297deg, rgba(255,176,55,1) 0%, rgba(244,255,109,1) 100%);
+}
+.scandal{
+	background: linear-gradient(83deg, rgba(199,55,255,1) 0%, rgba(0,218,244,1) 100%);
+}
+.dressing{
+	background: linear-gradient(162deg, rgba(0,0,0,1) 0%, rgba(83,83,83,1) 100%);
+}
+.onyx{
+	background: linear-gradient(308deg, rgba(14,14,14,1) 0%, rgba(75,75,75,1) 100%);
+}
+.offend{
+	background: linear-gradient(108deg, rgba(14,14,14,1) 0%, rgba(75,75,70,1) 100%);
+}
+.thrust{
+	background: linear-gradient(232deg, rgba(0,121,144,1) 0%, rgba(255,0,0,1) 100%);
+}
+.bench{
+	background: linear-gradient(215deg, rgba(219,0,104,1) 0%, rgba(139,0,180,1) 100%);
+}
+.distort{
+	background: linear-gradient(215deg, rgba(219,0,199,1) 0%, rgba(0,180,96,1) 100%);
 }
